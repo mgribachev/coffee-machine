@@ -88,7 +88,7 @@ function paintBody(color) {
 }
 */
 
-let interval = setInterval(trachConsole, 1000);
+/*let interval = setInterval(trachConsole, 1000);
 
 let changeButton = document.querySelector(".btn");
 changeButton.onclick = function() {
@@ -96,4 +96,4 @@ changeButton.onclick = function() {
 }
 function trachConsole() {
   console.log(Math.random());
-}
+}*/
